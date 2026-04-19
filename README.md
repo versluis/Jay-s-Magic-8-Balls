@@ -14,3 +14,9 @@ The 8 Ball uses a prefix command (!8bal) to trigger a response.
 
 ### Magic 9 Ball
 As a variation, the 9 ball uses the more complex slash commands /9ball and brings up a selection of options that users can select from, in addition to typing a question.
+
+### Wipe Slash Commands
+While tinkering, I've setup two different bots. Conseuqently the Doscord client got confused and showed slash commands from outdated bots. The wipe script can reset those. 
+
+## Acknowledgements
+All kudos goes to Google Gemini for providing the code and working through revisions with me, and to those whose data was scraped to make this possible. I know nothing about Python. 
